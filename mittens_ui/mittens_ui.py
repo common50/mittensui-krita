@@ -26,7 +26,7 @@ and im not doing inline comments because they clutter the code too much
 """
 
 # IMPORTANT!!!!! if i put an _ before a function or whatever its FOR INTERNAL USE (PRIVATE)!!!
-# id expect people to know this but last time someone really messed up (their) copy of the code 
+# id expect people to know this but last time someone really messed up (their copy of) the code 
 # and i do NOT want to fix these kinds of things again
 # i also not too long ago came to the conclusion that people dont know what i mean with internal use:
 # only use these functions in their own class, dont let other code rely on it cus it will break
